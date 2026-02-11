@@ -31,8 +31,8 @@
   "scripts": {
     "build": "tsc && gulp build:icons",
     "dev": "n8n-node dev",
-    "lint": "eslint . --ext .ts",
-    "lint:fix": "eslint . --ext .ts --fix",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "test": "jest",
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watch",
