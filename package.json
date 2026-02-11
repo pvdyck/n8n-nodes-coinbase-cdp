@@ -16,9 +16,16 @@
   "author": {
     "name": "pvdyck"
   },
+  "homepage": "https://github.com/pvdyck/n8n-nodes-coinbase-cdp#readme",
+  "bugs": {
+    "url": "https://github.com/pvdyck/n8n-nodes-coinbase-cdp/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pvdyck/n8n-nodes-coinbase-cdp"
+  },
+  "engines": {
+    "node": ">=22.0.0"
   },
   "main": "index.js",
   "scripts": {
